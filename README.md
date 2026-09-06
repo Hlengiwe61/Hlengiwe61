@@ -1,7 +1,7 @@
 # Hi, I'm Hlengiwe 👋🏽
 
 💻 Junior Software Developer | Application Development  
-🇿🇦 South Africa
+ South Africa
 
 I'm a  Junior software developer passionate about building practical, user-focused web applications and continuously improving my development skills.
 
